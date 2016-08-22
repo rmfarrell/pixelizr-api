@@ -1,0 +1,3 @@
+access_key="XXXXXXX"
+secret_key="XXXXXXXXXX"
+role_arn="arn:aws:iam::000:role/admin"

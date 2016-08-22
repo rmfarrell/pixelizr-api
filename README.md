@@ -1,0 +1,1 @@
+apex infra --env stage plan --var-file="../../.tfvars"

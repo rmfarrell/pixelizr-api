@@ -1,0 +1,10 @@
+
+{
+  "name": "pixelizer-api",
+  "runtime": "golang",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::741450390541:role/pixelizer-api_lambda_function",
+  "environment": {}
+}
